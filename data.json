@@ -1,0 +1,82 @@
+{
+  "books": [
+    {
+      "image": "https://http2.mlstatic.com/D_NQ_NP_712971-MLC74088066253_012024-O.webp",
+      "is_new": false,
+      "title": "Cómo ganar amigos e influir sobre las personas",
+      "author": "Dale Carnegie",
+      "description": "Ofrece consejos prácticos y eternos sobre cómo mejorar las habilidades sociales y fortalecer las relaciones personales y profesionales. Uno de los consejos clave del libro es la importancia de mostrar un interés genuino en los demás. Carnegie sugiere que, para hacer amigos e influir positivamente en las personas, es crucial escuchar activamente, hacer preguntas que demuestren cuidado y empatía, y valorar las opiniones y experiencias de los demás.",
+      "amazon_price": "~574 UYU",
+      "amazon_url": "https://www.amazon.com/influir-personas-Friends-Influence-Spanish/dp/164473009X/",
+      "ml_price": "290 UYU",
+      "ml_url": "https://listado.mercadolibre.com.uy/libros-revistas-comics/libros-fisicos/como-ganar-amigos_OrderId_PRICE_NoIndex_True",
+      "price": "200 UYU",
+      "sold": true
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/sbQAAOSwq9tl5Xjw/s-l1600.png",
+      "is_new": true,
+      "title": "Piense y hágase rico",
+      "author": "Napoleón Hill",
+      "description": "se centra en cómo el pensamiento positivo puede influir directamente en el éxito personal y financiero. Uno de los conceptos más destacados del libro es la \"fe aplicada\", que Hill describe como la creencia firme en uno mismo y en sus objetivos, combinada con un plan de acción claro. Según Hill, para alcanzar la riqueza o cualquier otro éxito, es esencial tener una visión clara de lo que se desea alcanzar, creer con convicción en esa visión, y persistir en el esfuerzo a pesar de los obstáculos y fracasos. Este proceso requiere una mezcla de confianza interna, planificación detallada y una actitud inquebrantable hacia la realización de los propios sueños.",
+      "amazon_price": "~350 UYU",
+      "amazon_url": "https://www.amazon.com/Piense-H%C3%A1gase-Rico-Traducci%C3%B3n-Collection/dp/1535598093/",
+      "ml_price": "390 UYU",
+      "ml_url": "https://listado.mercadolibre.com.uy/libros-revistas-comics/libros-fisicos/piense-y-hagace-rico_OrderId_PRICE_NoIndex_True",
+      "price": "300 UYU",
+      "sold": false
+    },
+    {
+      "image": "https://html.madrasthemes.com/bookworm-html/redesigned-octo-fiesta/assets/img/120x180/img1.jpg",
+      "is_new": true,
+      "title": "este sería el títutlo 3",
+      "author": "nombre de autor",
+      "description": "Labore culpa magna eu exercitation eu eu amet nulla veniam et aliquip eu. Consectetur pariatur laborum magna officia do tempor commodo tempor excepteur amet aliquip elit esse velit. Veniam consequat pariatur exercitation ipsum ut nulla incididunt excepteur commodo. Aliquip laborum est enim cupidatat elit labore sunt sit laborum deserunt.",
+      "amazon_price": "~10 UYU",
+      "amazon_url": "https://www.amazon.com/influir-personas-Friends-Influence-Spanish/dp/164473009X/",
+      "ml_price": "10 UYU",
+      "ml_url": "",
+      "price": "300 UYU",
+      "sold": false
+    },
+    {
+      "image": "https://html.madrasthemes.com/bookworm-html/redesigned-octo-fiesta/assets/img/120x180/img1.jpg",
+      "is_new": true,
+      "title": "este sería el títutlo",
+      "author": "nombre de autor",
+      "description": "Labore culpa magna eu exercitation eu eu amet nulla veniam et aliquip eu. Consectetur pariatur laborum magna officia do tempor commodo tempor excepteur amet aliquip elit esse velit. Veniam consequat pariatur exercitation ipsum ut nulla incididunt excepteur commodo. Aliquip laborum est enim cupidatat elit labore sunt sit laborum deserunt.",
+      "amazon_price": "~10 UYU",
+      "amazon_url": "https://www.amazon.com/influir-personas-Friends-Influence-Spanish/dp/164473009X/",
+      "ml_price": "10 UYU",
+      "ml_url": "",
+      "price": "300 UYU",
+      "sold": false
+    },
+    {
+      "image": "https://html.madrasthemes.com/bookworm-html/redesigned-octo-fiesta/assets/img/120x180/img1.jpg",
+      "is_new": true,
+      "title": "este sería el títutlo",
+      "author": "nombre de autor",
+      "description": "Labore culpa magna eu exercitation eu eu amet nulla veniam et aliquip eu. Consectetur pariatur laborum magna officia do tempor commodo tempor excepteur amet aliquip elit esse velit. Veniam consequat pariatur exercitation ipsum ut nulla incididunt excepteur commodo. Aliquip laborum est enim cupidatat elit labore sunt sit laborum deserunt.",
+      "amazon_price": "~10 UYU",
+      "amazon_url": "https://www.amazon.com/influir-personas-Friends-Influence-Spanish/dp/164473009X/",
+      "ml_price": "10 UYU",
+      "ml_url": "",
+      "price": "300 UYU",
+      "sold": false
+    },
+    {
+      "image": "https://html.madrasthemes.com/bookworm-html/redesigned-octo-fiesta/assets/img/120x180/img1.jpg",
+      "is_new": true,
+      "title": "este sería el títutlo",
+      "author": "nombre de autor",
+      "description": "Labore culpa magna eu exercitation eu eu amet nulla veniam et aliquip eu. Consectetur pariatur laborum magna officia do tempor commodo tempor excepteur amet aliquip elit esse velit. Veniam consequat pariatur exercitation ipsum ut nulla incididunt excepteur commodo. Aliquip laborum est enim cupidatat elit labore sunt sit laborum deserunt.",
+      "amazon_price": "~10 UYU",
+      "amazon_url": "https://www.amazon.com/influir-personas-Friends-Influence-Spanish/dp/164473009X/",
+      "ml_price": "10 UYU",
+      "ml_url": "",
+      "price": "300 UYU",
+      "sold": false
+    }
+  ]
+}

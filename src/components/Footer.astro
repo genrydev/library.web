@@ -1,0 +1,39 @@
+---
+import AstroIcon from "@/components/icons/AstroIcon.astro";
+import TailwindIcon from "@/components/icons/Tailwind.astro";
+
+interface Props {
+  madeBy: String;
+  using: String;
+}
+
+const { madeBy, using } = Astro.props;
+---
+
+<footer class="my-3">
+  <p class="text-sm text-gray-400 flex gap-x-1 items-center justify-center">
+    <span>2024 ©</span>
+    {madeBy}
+    <a href="https://genry.dev/" target="_blank" class="text-slate-800"
+      >@genrydev</a
+    >
+    {using}
+    <a
+      href="https://astro.build/"
+      target="_blank"
+      title="Astro"
+      rel="noreferrer"
+    >
+      <AstroIcon class="text-slate-700" />
+    </a>
+    &#x2022;
+    <a
+      href="https://tailwindcss.com/"
+      target="_blank"
+      title="Tailwind"
+      rel="noreferrer"
+    >
+      <TailwindIcon class="text-slate-700" />
+    </a>
+  </p>
+</footer>
