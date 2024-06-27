@@ -25,23 +25,25 @@ import { books } from "@data";
         class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 m-1"
       >
         {
-          books.map((book) => {
-            return (
-              <BookCard
-                image={book.image}
-                is_new={book.is_new}
-                title={book.title}
-                author={book.author}
-                description={book.description}
-                amazon_price={book.amazon_price}
-                amazon_url={book.amazon_url}
-                ml_price={book.ml_price}
-                ml_url={book.ml_url}
-                price={book.price}
-                sold={book.sold}
-              />
-            );
-          })
+          books
+            .sort((a, b) => Number(a.sold) - Number(b.sold))
+            .map((book) => {
+              return (
+                <BookCard
+                  image={book.image}
+                  is_new={book.is_new}
+                  title={book.title}
+                  author={book.author}
+                  description={book.description}
+                  amazon_price={book.amazon_price}
+                  amazon_url={book.amazon_url}
+                  ml_price={book.ml_price}
+                  ml_url={book.ml_url}
+                  price={book.price}
+                  sold={book.sold}
+                />
+              );
+            })
         }
       </div>
     </div>
